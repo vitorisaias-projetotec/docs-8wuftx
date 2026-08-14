@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-oi220d.pttogel87yut.cfd/sitemap.xml
